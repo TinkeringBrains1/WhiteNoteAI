@@ -16,9 +16,8 @@ Whitenote AI is an automated, multi-agent AI pipeline designed to intercept, ana
 ## **Tech Stack**
 
 * **Frontend/Backend**: Next.js (App Router), TypeScript, Tailwind CSS, shadcn/ui  
-* **Database**: PostgreSQL (Relational schema with transactional invoices and audit\_log tables)  
+* **Database**: PostgreSQL (via AWS)
 * **Alerts Gateway**: Meta Cloud API (WhatsApp Business v25.0)  
-* **AI/Processing**: Whitenote Agent Framework
 
 ## **Local Setup & Installation**
 
